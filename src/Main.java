@@ -12,10 +12,10 @@ public class Main {
 		System.out.println("Print Line #7");		
 		System.out.println("Print Line #8");		
 		System.out.println("Manually added Print Line #8");		
-		System.out.println("Manually added Print Line #9");	
-		System.out.println("Manually added Print Line #20");	
-		System.out.println("Manually added Print Line #21");	
-		
+		System.out.println("Manually added Print Line #9");		
+		System.out.println("Pushed from WS2 #10");
+		System.out.println("Pushed from WS1 #11");
+		System.out.println("Pushed from WS1 #30");
 
 		
 	}
