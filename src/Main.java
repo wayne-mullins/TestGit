@@ -15,6 +15,7 @@ public class Main {
 		System.out.println("Manually added Print Line #9");		
 		System.out.println("Pushed from WS2 #10");
 		System.out.println("Pushed from WS1 #11");
+		System.out.println("Pushed from WS1 #12");
 
 		
 	}
