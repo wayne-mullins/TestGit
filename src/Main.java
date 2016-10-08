@@ -11,6 +11,7 @@ public class Main {
 		System.out.println("Add Line #2 from WS Test2");
 		System.out.println("Add Line #3 from WS Test1");
 		System.out.println("Add Line #4 from WS Test1");
+		System.out.println("Added this line while merging");
 
 	}
 
