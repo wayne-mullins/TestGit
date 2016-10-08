@@ -27,7 +27,8 @@ public class Main {
 		System.out.println("Manually Edited WS1 #34");
 		System.out.println("Manually Edited WS1 #35");
 		System.out.println("Manually Edited WS1 #36");
-		
+		System.out.println("Manually Edited WS1 #37");
+				
 	}
 
 }
